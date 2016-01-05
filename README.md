@@ -1,0 +1,2 @@
+# makeWindowsIcon
+制作windows下应用程序的图标（以便通过Py2exe打包Python程序为exe时能有一个漂亮的程序图标）
