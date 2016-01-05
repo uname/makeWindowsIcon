@@ -20,5 +20,7 @@ setup( zipfile=None,
 1. 下载喜欢的图标(png格式)
 2. 为该png图标生成四种尺寸：248x248，48x48，32x32，16x16
 3. 下载png2ico.exe命令行工具，然后在图片所在目录中执行：
+
 png2ico.exe  logo.ico  demo248.png demo48.png demo32.png demo16.png
+
 生成的logo.ico即可作为程序的图标，在Windows下正常显示。
